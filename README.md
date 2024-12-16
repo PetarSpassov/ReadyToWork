@@ -13,3 +13,7 @@ NOTE: If you already have a `res.client1.pak`, you will need to rename this one 
 
 ## __Uninstallation__
 Simply delete `res.client1.pak` (or whatever you named this pak) from the folder to remove the mod.
+
+# Other Mods by Me
+- [Quinngard](https://github.com/PetarSpassov/Quinngard) - An extensive PVE-oriented balance and QoL mod
+- [NoMoreFog](https://github.com/PetarSpassov/NoMoreFog) - Removes intrusive fog from multiple weathers (e.g. storm, blizzard)
